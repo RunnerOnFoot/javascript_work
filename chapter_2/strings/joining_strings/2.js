@@ -1,8 +1,8 @@
 let first = "First string";
-console.log(first)
+console.log(first);
 
 let second = "Second string";
-console.log(second)
+console.log(second);
 
 let joined = first + " " + second;
-console.log(joined)
+console.log(joined);
