@@ -13,3 +13,6 @@ primes.length;
 
 primes[primes.length - 1];
 // 19
+
+primes[10];
+// undefined
