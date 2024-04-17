@@ -8,3 +8,5 @@ primes[0];
 primes[7];
 // 19
 
+primes.length;
+// 8
