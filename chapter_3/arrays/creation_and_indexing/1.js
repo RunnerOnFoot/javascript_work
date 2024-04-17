@@ -10,3 +10,6 @@ primes[7];
 
 primes.length;
 // 8
+
+primes[primes.length - 1];
+// 19
