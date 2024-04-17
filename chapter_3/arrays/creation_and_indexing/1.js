@@ -16,3 +16,7 @@ primes[primes.length - 1];
 
 primes[10];
 // undefined
+
+primes[2] = 1;
+primes;
+// (8) [2, 3, 1, 7, 11, 13, 17, 19]
