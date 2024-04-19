@@ -17,3 +17,12 @@ ticTacToe;
 // 2: (3) ['', '', '']
 // length: 3
 // [[Prototype]]: Array(0)
+
+ticTacToe[2][0] = "O";
+ticTacToe;
+// (3) [Array(3), Array(3), Array(3)]
+// 0: (3) ['', '', 'X']
+// 1: (3) ['', '', '']
+// 2: (3) ['O', '', '']
+// length: 3
+// [[Prototype]]: Array(0)
