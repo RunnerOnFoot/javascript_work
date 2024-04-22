@@ -12,3 +12,10 @@ message;
 // 'My favorite language is JavaScript.'
 languages;
 // (5) ['Fortran', 'C', 'Erlang', 'Python', 'Haskell']
+
+let worstLanguage = languages.shift();
+message = `My least favorite language is ${worstLanguage}.`;
+console.log(message);
+// 'My least favorite language is Fortran.'
+console.log(languages);
+// (4) ['C', 'Erlang', 'Python', 'Haskell']
