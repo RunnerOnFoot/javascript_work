@@ -10,3 +10,6 @@ obj["key 3"];
 // 3
 casablanca["title"];
 // 'Casablanca'
+
+obj.key_2;
+// 2
